@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Schooling</string>
+    <string name="select_departement">Sélectionner un département</string>
+    <array name="liste_departements">
+        <item>gg</item>
+        <item>65eaf693e5a7eefed4e422e2</item>
+    </array>
+</resources>
